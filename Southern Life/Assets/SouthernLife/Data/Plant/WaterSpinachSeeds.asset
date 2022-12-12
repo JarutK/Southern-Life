@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 678fa244a19d62a479179ba327d4b37c, type: 3}
+  m_Name: WaterSpinachSeeds
+  m_EditorClassIdentifier: 
+  icon: {fileID: 6657595196249554672, guid: 9fc49d2aaeb418b488eff724221d1f93, type: 3}
+  state0: {fileID: 6657595196249554672, guid: 9fc49d2aaeb418b488eff724221d1f93, type: 3}
+  state1: {fileID: -1592000201050604613, guid: 9fc49d2aaeb418b488eff724221d1f93, type: 3}
+  state2: {fileID: 4195528051633882168, guid: 9fc49d2aaeb418b488eff724221d1f93, type: 3}
+  state3: {fileID: 6643320846669228966, guid: 9fc49d2aaeb418b488eff724221d1f93, type: 3}
+  Name: "\u0E40\u0E21\u0E25\u0E47\u0E14\u0E1C\u0E31\u0E01\u0E1A\u0E38\u0E49\u0E07"
+  timeToGrow1: 1
+  timeToGrow2: 3
+  timeToGrow3: 3
+  tree: 0
+  product: {fileID: 11400000, guid: 33bd840ff944c9b4cbc5312c551a3ed5, type: 2}
+  pickable: 0
+  pickTime: 0
+  price: 30
+  dropCount: 3

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 678fa244a19d62a479179ba327d4b37c, type: 3}
+  m_Name: MungBean
+  m_EditorClassIdentifier: 
+  icon: {fileID: 7782840843498009005, guid: 0c3c0031edb05a749930c02b15a9417b, type: 3}
+  state0: {fileID: 7782840843498009005, guid: 0c3c0031edb05a749930c02b15a9417b, type: 3}
+  state1: {fileID: 1535118969171279077, guid: 0c3c0031edb05a749930c02b15a9417b, type: 3}
+  state2: {fileID: -1494946450981338950, guid: 0c3c0031edb05a749930c02b15a9417b, type: 3}
+  state3: {fileID: -7122523415673719487, guid: 0c3c0031edb05a749930c02b15a9417b, type: 3}
+  Name: "\u0E40\u0E21\u0E25\u0E47\u0E14\u0E16\u0E31\u0E48\u0E27\u0E40\u0E02\u0E35\u0E22\u0E27"
+  timeToGrow1: 1
+  timeToGrow2: 2
+  timeToGrow3: 1
+  tree: 0
+  product: {fileID: 11400000, guid: 4efa21014e02cfb4591e5693f16edeeb, type: 2}
+  pickable: 0
+  pickTime: 0
+  price: 10
+  dropCount: 1

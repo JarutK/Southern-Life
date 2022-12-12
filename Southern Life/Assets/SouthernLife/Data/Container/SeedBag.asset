@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 107805356809e2848a4d057456a15c39, type: 3}
+  m_Name: SeedBag
+  m_EditorClassIdentifier: 
+  database: {fileID: 11400000, guid: 7f48ce2481ecacd459b00a7c3e92ddfc, type: 2}
+  slots:
+  - ID: 1
+    plant: {fileID: 11400000, guid: dccb3e375dc8d1944946088d21c98374, type: 2}
+    count: 3
+  - ID: 2
+    plant: {fileID: 11400000, guid: 1c27fb06543e1794ebb45655dfb4cd6f, type: 2}
+    count: 5
+  - ID: 2
+    plant: {fileID: 11400000, guid: 1c27fb06543e1794ebb45655dfb4cd6f, type: 2}
+    count: 0
+  - ID: 3
+    plant: {fileID: 11400000, guid: a49f8a0c1e390f94498434812660e8cb, type: 2}
+    count: 0
+  - ID: 1
+    plant: {fileID: 11400000, guid: dccb3e375dc8d1944946088d21c98374, type: 2}
+    count: 0
+  - ID: 5
+    plant: {fileID: 0}
+    count: 0
+  - ID: 5
+    plant: {fileID: 0}
+    count: 0
+  - ID: 5
+    plant: {fileID: 0}
+    count: 0

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 678fa244a19d62a479179ba327d4b37c, type: 3}
+  m_Name: ChiliPepperPlants
+  m_EditorClassIdentifier: 
+  icon: {fileID: -1715288919100277290, guid: 14c0b2657d8b3184baaf9bed35e89a61, type: 3}
+  state0: {fileID: -1715288919100277290, guid: 14c0b2657d8b3184baaf9bed35e89a61, type: 3}
+  state1: {fileID: -3535946908330046150, guid: 14c0b2657d8b3184baaf9bed35e89a61, type: 3}
+  state2: {fileID: -6251903177297456623, guid: 14c0b2657d8b3184baaf9bed35e89a61, type: 3}
+  state3: {fileID: 114502434405104754, guid: 14c0b2657d8b3184baaf9bed35e89a61, type: 3}
+  Name: "\u0E15\u0E49\u0E19\u0E1E\u0E25\u0E34\u0E01"
+  timeToGrow1: 3
+  timeToGrow2: 4
+  timeToGrow3: 7
+  tree: 0
+  product: {fileID: 11400000, guid: 2a18595f3bf3ce042ba63e0e5416e474, type: 2}
+  pickable: 1
+  pickTime: 4
+  pickCoolDown: 0
+  price: 100
+  dropCount: 4
